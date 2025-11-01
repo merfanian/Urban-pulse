@@ -1,0 +1,10 @@
+notebook
+pandas
+numpy
+seaborn
+requests
+geopy
+matplotlib
+tqdm
+openai
+python-dotenv
