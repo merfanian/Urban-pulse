@@ -8,3 +8,10 @@ matplotlib
 tqdm
 openai
 python-dotenv
+folium
+imageio
+shapely
+pillow
+# Note: geopandas requires system libraries (gdal-devel, proj-devel, geos-devel)
+# Install system packages first: sudo dnf install gdal-devel proj-devel geos-devel gdal
+# Then: pip install geopandas
